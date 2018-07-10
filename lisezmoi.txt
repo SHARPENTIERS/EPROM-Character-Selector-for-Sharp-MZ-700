@@ -15,7 +15,7 @@ J'ai utilisé le matériel suivant :
     https://www.conrad.fr/ce/fr/product/741949/Connecteur-de-circuit-imprim-BKL-Electronic-10120884-Nbr-total-de-ples-24-Nbr-de-ranges-2-1-pcs
  - 1 câble plat de 24 conducteurs (récupération)
  - 1 PCB (fait maison) : voir dossier PCB
- - 1 inverseur (fait maison)
+ - 1 inverseur (récupération)
  - 2 condensateurs de découplage de 100pF
 
 J'ai mis quelques photos pour voir le résultat avec
