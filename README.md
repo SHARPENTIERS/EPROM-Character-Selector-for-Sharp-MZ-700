@@ -18,7 +18,7 @@ I used the following material:
      https://www.conrad.fr/ce/fr/product/741949/Connecteur-de-circuit-imprim-BKL-Electronic-10120884-Nbr-total-de-ples-24-Nbr-de-ranges-2- 1 pcs
   - 1 flat cable of 24 conductors (recovery)
   - 1 PCB (homemade): see PCB file
-  - 1 inverter (homemade)
+  - 1 inverter (recovery)
   - 2 decoupling capacitors of 100pF
 
 I put some pictures to see the result with
